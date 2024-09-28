@@ -2,17 +2,20 @@
 
 # Personaje2024
 ## Nombre del personaje
-EL GRINCH
+Santa Claus con regalo
 ## Creador
-José Emmanuel Arredondo Escalante
+Luis Manuel López Cano
 ## Explicacion del funcionamiento
-El personaje al momento que se acerca 5 cm una persona comienza a hacer algo (descripcion luz, sonido y movimiento), da una explicación completa.
+En el proyecto contara con un sensor, un servo y leds. Al momento de que una persona se hacerque el santa claus cantara y lenvantara la mano con el regalo asi mismo iluminandose.
 
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
 |--|--|--|--|
-|ESP32|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b&quot; width="100"/>|1|120.00|
-|HC-SR04|<img width="100" src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b&quot; />|1|30.00|
+|ESP32|<img src="https://m.media-amazon.com/images/I/612eALAbpgL.,}jpg; width="100"/>|1|120.00|
+|HC-SR04|<img width="100" src="https://www.330ohms.com/cdn/shop/products/photo_A_OS-03261_SensorUltrasonico_HC-SR04_01_1200x1200.png?v=1598042103"; />|1|75.00|
+|Servo|<img width="100" src="<img width="100" src="https://www.330ohms.com/cdn/shop/products/photo_A_OS-03261_SensorUltrasonico_HC-SR04_01_1200x1200.png?v=1598042103"; />|1|75.00|"; />|1|131.00|
+|Leds|<img width="100" src="https://www.taloselectronics.com/cdn/shop/products/paquete_de_100_leds_difusos_5mm_varios_colores_mexico_jalisco_guadalajara_700x700.jpg?v=1593816653"; />|1|2.00|
+|Resistencia|<img width="100" src="https://http2.mlstatic.com/D_NQ_NP_903666-MLM75952546015_042024-O.webp"; />|1|2.00|
 |...||||
 
 ## Software a utilizar
@@ -22,13 +25,13 @@ El personaje al momento que se acerca 5 cm una persona comienza a hacer algo (de
 |...||
 
 ## Dibujo del personaje
-Imagen hecha a mano o con software
+https://drive.google.com/drive/folders/1Cucui6sjq2T2Q0s4BUArYeFyz-wNVZ3g?usp=sharing
 
 ## Enlaces de la simulación de wokwi
-Deben ser de 1 a 2 enlaces de wokwi
+https://wokwi.com/projects/410246863639528449
 
 ## Videos
-Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
+(https://drive.google.com/drive/folders/1Cucui6sjq2T2Q0s4BUArYeFyz-wNVZ3g?usp=sharing)
 
 ## Capturas de Evaluaciones de Curso de C
-Capturas de pantalla de sus resultados de evaluaciones del curso de C.
+https://drive.google.com/drive/folders/1Cucui6sjq2T2Q0s4BUArYeFyz-wNVZ3g?usp=sharing

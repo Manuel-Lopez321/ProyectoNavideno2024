@@ -28,10 +28,13 @@ En el proyecto contara con un sensor, un servo y leds. Al momento de que una per
 https://drive.google.com/drive/folders/1Cucui6sjq2T2Q0s4BUArYeFyz-wNVZ3g?usp=sharing
 
 ## Enlaces de la simulación de wokwi
-https://wokwi.com/projects/410246863639528449
+https://wokwi.com/projects/412573310183348225
 
 ## Videos
 (https://drive.google.com/drive/folders/1Cucui6sjq2T2Q0s4BUArYeFyz-wNVZ3g?usp=sharing)
 
 ## Capturas de Evaluaciones de Curso de C
 https://drive.google.com/drive/folders/1Cucui6sjq2T2Q0s4BUArYeFyz-wNVZ3g?usp=sharing
+
+##Capturas del curso de Python
+https://drive.google.com/drive/folders/1PnajUODPHJjoJyZU2l32Dk6Lf_cmlKZE?usp=drive_link

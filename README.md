@@ -36,5 +36,5 @@ https://wokwi.com/projects/412573310183348225
 ## Capturas de Evaluaciones de Curso de C
 https://drive.google.com/drive/folders/1Cucui6sjq2T2Q0s4BUArYeFyz-wNVZ3g?usp=sharing
 
-##Capturas del curso de Python
+## Capturas del curso de Python
 https://drive.google.com/drive/folders/1PnajUODPHJjoJyZU2l32Dk6Lf_cmlKZE?usp=drive_link

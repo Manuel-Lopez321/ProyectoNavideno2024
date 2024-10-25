@@ -13,7 +13,7 @@ En el proyecto contara con un sensor, un servo y leds. Al momento de que una per
 |--|--|--|--|
 |ESP32|<img src="https://m.media-amazon.com/images/I/612eALAbpgL.jpg" width="100"/>|1|120.00|
 |HC-SR04|<img width="100" src="https://www.330ohms.com/cdn/shop/products/photo_A_OS-03261_SensorUltrasonico_HC-SR04_01_1200x1200.png?v=1598042103" />|1|75.00|
-|Servo| <img width="100" src="[https://www.330ohms.com/cdn/shop/products/photo_A_OS-03261_SensorUltrasonico_HC-SR04_01_1200x1200.png?v=1598042103](https://gm0.org/es/latest/_images/hs488.jpg)" />|1|75.00|"; />|1|131.00|
+|Servo| <img width="100" src="https://www.330ohms.com/cdn/shop/products/photo_A_OS-03261_SensorUltrasonico_HC-SR04_01_1200x1200.png" />|1|75.00|"; />|1|131.00|
 |LEDs|<img width="100" src="https://www.taloselectronics.com/cdn/shop/products/paquete_de_100_leds_difusos_5mm_varios_colores_mexico_jalisco_guadalajara_700x700.jpg?v=1593816653" />|1|2.00|
 |Resistencia|<img width="100" src="https://http2.mlstatic.com/D_NQ_NP_903666-MLM75952546015_042024-O.webp" />|1|2.00|
 |...||||

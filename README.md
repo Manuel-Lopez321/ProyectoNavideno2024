@@ -38,3 +38,15 @@ https://drive.google.com/drive/folders/1Cucui6sjq2T2Q0s4BUArYeFyz-wNVZ3g?usp=sha
 
 ## Capturas del curso de Python
 https://drive.google.com/drive/folders/1PnajUODPHJjoJyZU2l32Dk6Lf_cmlKZE?usp=drive_link
+
+
+## SEGUNDA UNIDAD.
+
+## Videos para la evaluacion de la segunda unidad
+https://drive.google.com/drive/folders/12-v4fbEvSazDKPUHrvDUjfakoBMOhAsR?usp=drive_link
+
+## Capturas de los examenes de python para la evaluacion de la segunda unidad
+https://drive.google.com/drive/folders/1PnajUODPHJjoJyZU2l32Dk6Lf_cmlKZE?usp=drive_link
+
+## Ejercicios en clase
+https://drive.google.com/drive/folders/12-v4fbEvSazDKPUHrvDUjfakoBMOhAsR?usp=drive_link
